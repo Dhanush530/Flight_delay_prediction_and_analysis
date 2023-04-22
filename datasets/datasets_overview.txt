@@ -1,0 +1,5 @@
+Various datasets are present for this analysis and prediciton, and there indicvidual dataset description is mentioned in this file,
+train.csv and test.csv : contains information on flight_number, origin and destination, departure and arrival time.
+all_station_weather.txt : contain information on weather_station_id, and technical details w.r.t weather stations.
+hourly_data.txt : contains the detail on climate conditons such as sky_conditions, visibility etc.
+hpd_data.txt : provides information on hourly orecipitation data w.r.t weather_station_id
